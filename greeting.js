@@ -1,7 +1,7 @@
 let word = process.argv[2];
 
 if (!word) {
-  word = "World";
+  word = "mundo";
 }
 
-console.log(`Hello ${word}`);
+console.log(`Hola ${word}!`);
